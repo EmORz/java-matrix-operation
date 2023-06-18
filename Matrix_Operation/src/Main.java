@@ -20,7 +20,7 @@ public class Main {
             }
         }
 
-        System.out.println("Matrix is: ");
+        System.out.println("Matrix is1: ");
         printMatrix(matrix);
 
         System.out.print("Sum of matrixs is: ");
